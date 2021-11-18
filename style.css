@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 3000px;
+    background-color: black !important;
+    
+}
+h1,h2,h3,h4,h5,h6,p,i{
+    color: white;
+}
+.header{
+    margin-bottom: 7rem;
+    margin-top: 20px;
+    background-color: #e420fa;
+}
+.fa-youtube{
+    color: red;
+    display: flex;
+    justify-content: center;
+    
+}
+.cardone{
+    margin-top: 20px;
+    padding: 6px;
+    
+    
+
+}
+.cardtwo{
+    border-radius: 25px;  
+}
+.cardtwo:hover{
+    font-weight:bold;
+    background-color: #e420fa;
+}
+
+.fa-wrench,.fa-users,.fa-graduation-cap{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.features{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    padding-top: 9rem;
+    
+  
+}
+.containertwo{
+    
+    margin-top: 10rem;
+    
+}
+.breaf{
+    margin-top: 10rem;
+}
+.work{
+    display: flex;
+    justify-content: center;
+    margin-top: 20rem;
+}
+.cardthree{
+    margin-top: 14rem;
+}
+p{
+    font-weight: 400;
+
+}
+.domains{
+    margin-top: 18.5rem;
+}
+.domain{
+    margin-top: 5rem;
+    padding: 4rem;
+}
+
+.card{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.card:hover{
+    font-weight:bold;
+    background-color: #e420fa;
+}
+.timeline-area{
+    margin: 100px auto;
+    width: 360px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+
+    padding: 0 20px 0 30px;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.join1,.join2,.join3{
+    background-color: black;
+    padding: 10px 25px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 23%;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.join3:hover{
+    font-weight: bold;
+    background-color: #e420fa;
+}
+.join1:hover{
+    font-weight: bold;
+    background-color: #e420fa;
+
+}
+.join2:hover{
+    font-weight: bold;
+    background-color: #e420fa;
+
+}
+.footer{
+    background-color: #e420fa;
+    width: 100%;
+    height: 370px;
+}
+.footer:hover{
+    background-color:#c51bd8;
+    font-weight: bold;
+}
+.details1{
+    margin-left: 40rem;
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+}
+.social-medias{
+    margin-left: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 3rem;
+}
+.copyright{
+    margin-left: 40rem;
+    
+}
+.copy{
+    font-weight: lighter;
+}
